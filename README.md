@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm MANAN BAHAL <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">"Passionate software engineer excelling in MERN WEB development . Committed to mastering AI/ML, and dedicated to becoming a proficient Data Structures and Algorithms (DSA) practitioner. A lifelong learner driven by innovation and problem-solving."</h3>
 
-<p align="center">
+<p align="center" >
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Aspiring+Full+Stack+Developer+And+CPP+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
 </p>
 <hr/>
